@@ -30,6 +30,7 @@ This repository publishes the **complete algebraic ground truth and memory diagn
 | **02** | [`02_MEMORY_GHOSTS_AND_REDEFINES_OVERLAY.md`](./02_MEMORY_GHOSTS_AND_REDEFINES_OVERLAY.md) | `REDEFINES` byte-offset memory collisions, residual RAM buffer ghosts, and multi-threaded JVM singletons. |
 | **03** | [`03_PRECISION_AND_ROUNDING_DISCREPANCIES.md`](./03_PRECISION_AND_ROUNDING_DISCREPANCIES.md) | `COMP-3` packed decimal behavior vs IEEE 754 float drift and `BigDecimal.ROUND_HALF_UP` boundaries. |
 | **04** | [`04_STRUCTURAL_ISSUES_MANIFEST.md`](./04_STRUCTURAL_ISSUES_MANIFEST.md) | Formal issue catalog mapping 120 calculation gates, dispatch anomalies, and modernization hazards. |
+| **05** | [`05_CARDDEMO_CICS_RUNTIME_SPEC.md`](./05_CARDDEMO_CICS_RUNTIME_SPEC.md) | AWS CardDemo CICS bare-metal replacement architecture, 457k TPS benchmark, and [17 BMS `.ini` manifests](./bms_schemas/). |
 
 ---
 
